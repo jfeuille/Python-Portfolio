@@ -1,5 +1,5 @@
 # Python-Portfolio
-Python-based data analysis projects
+Python-based data analysis project.
 
 
 Project Objective:										
