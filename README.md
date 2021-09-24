@@ -35,5 +35,5 @@ Key Questions:
 										
 Data Citations:										
 1. "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on August 5, 2021.										
-2. "Customers Data Set", Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip on August 5, 2021.										
-Note: The "Prices" and "Products" data sets used in this project were both fabricated by CareerFoundry for the purpose of this course.										![image](https://user-images.githubusercontent.com/91334767/134698809-8dbd043d-6352-4adf-acd1-aa9f5e19fdc1.png)
+2. "Customers Data Set", Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip on August 5, 202										
+Note: The "Prices" and "Products" data sets used in this project were both fabricated by CareerFoundry for the purpose of this course.									
